@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Galaxy S24",
+      "valor": 5000
+    },
+    {
+      "nome": "iPhone 15",
+      "valor": 7000,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "carro",
+      "valor": 100000
+    },
+    {
+      "id": 4,
+      "nome": "teste",
+      "valor": null
+    },
+    {
+      "id": 5,
+      "nome": "teste 23",
+      "valor": 3254234
+    },
+    {
+      "id": 6,
+      "nome": "teste 6",
+      "valor": 123
+    }
+  ]
+}
